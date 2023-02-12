@@ -12,4 +12,4 @@ You can download the pre-print <a href="https://papers.ssrn.com/sol3/papers.cfm?
 If you have any question, please feel free to reach out to <a href="mailto:risabbiswas19@gmail.com" target="_blank">Risab Biswas</a> or <a href="mailto:swalpa@cse.jgec.ac.in" target="_blank">Swalpa Kumar Roy</a>.
 
 ## Conclusion
-We really appreciate your interest in our research. The code will be release as soon as the peer-review process is over. Thank you! 
+We really appreciate your interest in our research. The code will be released as soon as the peer-review process is over. Thank you! 
