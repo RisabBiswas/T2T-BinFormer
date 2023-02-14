@@ -16,7 +16,7 @@ If you use T2T-BinFormer code in your research, we would appreciate a citation t
           title={Effective Document Image Enhancement Using tokens-to-token Transformer Network},
           author={Biswas, Risab and Roy, Swalpa Kumar and Pal, Umapada},
           journal={Available at SSRN 4354038},
-          doi = {http://dx.doi.org/10.2139/ssrn.4354038 }
+          doi={http://dx.doi.org/10.2139/ssrn.4354038 }
           }
 ```
 
