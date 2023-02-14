@@ -1,5 +1,5 @@
 # T2T-BinFormer: Effective Document Image Enhancement Using tokens-to-token Transformer Network
-The official PyTorch code for the project "Effective Document Image Enhancement Using tokens-to-token Transformer Network" will be made available here very soon! 
+The official PyTorch code for the project "[Effective Document Image Enhancement Using tokens-to-token Transformer Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354038)" will be made available here very soon! 
 
 You can download the pre-print <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354038" target="_blank">here</a>. 
 
