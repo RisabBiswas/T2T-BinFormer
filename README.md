@@ -10,7 +10,7 @@ You can download the pre-print <a href="https://papers.ssrn.com/sol3/papers.cfm?
 
 ## Citation
 
-If you use A2S2K-ResNet code in your research, we would appreciate a citation to the original paper:
+If you use T2T-BinFormer code in your research, we would appreciate a citation to the original paper:
 ```
   @article{biswas4354038effective,
           title={Effective Document Image Enhancement Using tokens-to-token Transformer Network},
