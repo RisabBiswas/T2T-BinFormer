@@ -32,7 +32,7 @@ python process_dibco.py --data_path /YOUR_DATA_PATH/ --split_size 256 --testing_
 ```
 
 ## Using T2T-BinFormer
-### Training
+### Step 3 - Training
 For training, specify the desired settings (batch_size, patch_size, model_size, split_size, and training epochs) when running the file train.py. For example, for a base model with a patch size of (16 X 16) and a batch size of 32, we use the following command:
 
 ```bash
@@ -40,7 +40,7 @@ python train.py --data_path /YOUR_DATA_PATH/ --batch_size 32 --vit_model_size ba
 ```
 You will get visualization results from the validation dataset on each epoch in a folder named vis+"YOUR_EXPERIMENT_SETTINGS" (it will be created). In the previous case, it will be named visbase_256_16. Also, the best weights will be saved in the folder named "weights".
  
-### Testing on a DIBCO dataset
+### Step 4 - Testing on a DIBCO dataset
 To test the trained model on a specific DIBCO dataset (should match the one specified in Section Process Data, if not, run process_dibco.py again). Use your own trained model weights. Then, run the below command. Here, I test on H-DIBCO 2017, using the base model with a 16X16 patch size and a batch size of 16. The binarized images will be in the folder ./vis+"YOUR_CONFIGS_HERE"/epoch_testing/ 
 ```bash
 python test.py --data_path /YOUR_DATA_PATH/ --model_weights_path  /THE_MODEL_WEIGHTS_PATH/  --batch_size 16 --vit_model_size base --vit_patch_size 16 --split_size 256 --testing_dataset 2017
