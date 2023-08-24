@@ -6,7 +6,7 @@ We propose to employ a Tokens-to-Token Transformer network for document image en
 
 ![alt text](Architecture.png?raw=true)
 
-![alt text](Result Comparison.png?raw=true)
+![alt text](Result_Comparison.png?raw=true)
 
 ## Download Code
 Clone the repository to your desired location:
