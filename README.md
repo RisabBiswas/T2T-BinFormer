@@ -1,4 +1,4 @@
-# Effective Document Image Enhancement Using tokens-to-token Transformer Network
+# 🥇SOTA Document Image Enhancement - Effective Document Image Enhancement Using tokens-to-token Transformer Network
 The official PyTorch code for the project [Effective Document Image Enhancement Using tokens-to-token Transformer Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354038).
 
 ## Description
