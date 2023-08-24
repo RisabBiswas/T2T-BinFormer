@@ -1,5 +1,5 @@
 # Effective Document Image Enhancement Using tokens-to-token Transformer Network
-The official PyTorch code for the project "[Effective Document Image Enhancement Using tokens-to-token Transformer Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354038)".
+The official PyTorch code for the project [Effective Document Image Enhancement Using tokens-to-token Transformer Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354038).
 
 ## Description
 We propose to employ a Tokens-to-Token Transformer network for document image enhancement, a novel encoder-decoder architecture based on a tokens-to-token vision transformer.
