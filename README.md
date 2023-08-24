@@ -1,6 +1,28 @@
 # Effective Document Image Enhancement Using tokens-to-token Transformer Network
-The official PyTorch code for the project "[Effective Document Image Enhancement Using tokens-to-token Transformer Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354038)" will be made available here very soon! 
+The official PyTorch code for the project "[Effective Document Image Enhancement Using tokens-to-token Transformer Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354038)".
 
+## Description
+We propose to employ a Tokens-to-Token Transformer network for document image enhancement, a novel encoder-decoder architecture based on a tokens-to-token vision transformer.
+
+Architecture.png
+
+Result Comparison.png
+
+## Download Code
+Clone the repository to your desired location:
+```bash
+git clone https://github.com/RisabBiswas/T2T-BinFormer
+cd T2T-BinFormer
+```
+## Process Data
+### Data Path
+The research and experiments are conducted on the DIBCO and H-DIBCO datasets. Find the dataset here - [link](). After downloading, extract the folder named DIBCOSETS and place it in your desired data path. 
+Means:  /YOUR_DATA_PATH/DIBCOSETS/
+
+### Additional Data Path
+* PALM Dataset - [Link](https://drive.google.com/drive/folders/1u8vDqRlxWe5GvRPr6cD-C7GeL9MSqBsX?usp=drive_link)
+* Persian Heritage Image Binarization Dataset - [Link](https://drive.google.com/drive/folders/1CqP_2t7jBb9mqe4hjLJ_JDwd8vEUkyM9?usp=drive_link)
+* Degraded Maps - [Link](https://drive.google.com/drive/folders/1Li2x0pHfkmwx0kVXoj4kJ7DQuaZt83GO?usp=sharing))
 
 ## Authors
 - [Risab Biswas](https://www.linkedin.com/in/risab-biswas/)
