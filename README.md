@@ -8,13 +8,13 @@ We propose to employ a Tokens-to-Token Transformer network for document image en
 
 ![alt text](Result_Comparison.png?raw=true)
 
-## Download Code
+## Step 1 - Download Code
 Clone the repository to your desired location:
 ```bash
 git clone https://github.com/RisabBiswas/T2T-BinFormer
 cd T2T-BinFormer
 ```
-## Process Data
+## Step 2 - Process Data
 ### Data Path
 The research and experiments are conducted on the DIBCO and H-DIBCO datasets. Find the dataset here - [Link](https://drive.google.com/drive/folders/1u8vDqRlxWe5GvRPr6cD-C7GeL9MSqBsX?usp=drive_link). After downloading, extract the folder named DIBCOSETS and place it in your desired data path. 
 Means:  /YOUR_DATA_PATH/DIBCOSETS/
