@@ -1,5 +1,5 @@
-# 🥇SOTA Document Image Enhancement - Effective Document Image Enhancement Using tokens-to-token Transformer Network
-The official PyTorch code for the project [Effective Document Image Enhancement Using tokens-to-token Transformer Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354038).
+# 🥇SOTA Document Image Enhancement - A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement
+The official PyTorch code for the project [A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement](https://www.researchgate.net/publication/368426180_A_Layer-Wise_Tokens-to-Token_Transformer_Network_for_Improved_Historical_Document_Image_Enhancement).
 
 ## Description
 We propose to employ a Tokens-to-Token Transformer network for document image enhancement, a novel encoder-decoder architecture based on a tokens-to-token vision transformer.
