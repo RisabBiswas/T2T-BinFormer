@@ -62,12 +62,14 @@ Our project has adapted and borrowed the code structure from [DocEnTr](https://g
 
 If you use the T2T-BinFormer code in your research, we would appreciate a citation to the original paper:
 ```
-  @article{biswas4354038effective,
-          title={Effective Document Image Enhancement Using tokens-to-token Transformer Network},
-          author={Biswas, Risab and Roy, Swalpa Kumar and Pal, Umapada},
-          journal={Available at SSRN 4354038},
-          doi={http://dx.doi.org/10.2139/ssrn.4354038 }
-          }
+  @misc{biswas2023layerwise,
+        title={A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement}, 
+        author={Risab Biswas and Swalpa Kumar Roy and Umapada Pal},
+        year={2023},
+        eprint={2312.03946},
+        archivePrefix={arXiv},
+        primaryClass={cs.CV}
+  }
 ```
 
 ## Contact 
